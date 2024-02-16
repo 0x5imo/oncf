@@ -1,2 +1,10 @@
-# oncf
-interface d'achat de ticket de train
+# ONCF
+Interface graphique pour l'achat des tickets de train avec java
+
+
+
+
+# dependencies
+Netbeans
+MySQL
+Maven
