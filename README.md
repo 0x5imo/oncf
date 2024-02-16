@@ -18,3 +18,9 @@ MySQL community edition
 ```shell
 https://dev.mysql.com/downloads/mysql/
 ```
+
+
+Maven
+```shell
+https://maven.apache.org/download.cgi
+```
