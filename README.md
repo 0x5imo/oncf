@@ -5,6 +5,16 @@ Interface graphique pour l'achat des tickets de train avec java
 
 
 # dependencies
-Netbeans
-MySQL
-Maven
+JDK v20
+```shell
+sudo apt update
+sudo apt install openjdk-20-jdk
+``` 
+Netbeans 18
+```shell
+ https://netbeans.apache.org/
+``` 
+MySQL community edition
+```shell
+https://dev.mysql.com/downloads/mysql/
+```
